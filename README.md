@@ -6,3 +6,6 @@ this is the demo version of bodymovin for testing purpose
 $ The drive link for the images folder is $ 
 
 https://drive.google.com/open?id=1ueqVPAQiLMPx96btp1i2IIB-o1zb0xmS
+
+
+keep the .html and images folder in same heirarchy in folder structure.
